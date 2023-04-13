@@ -1,0 +1,265 @@
+[
+{
+"timestamp":1681319244654,
+"command":"Get",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, get {url=https://google.com}]"
+},
+{
+"timestamp":1681319246563,
+"command":"Get",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, get {url=https://google.com}]"
+},
+{
+"timestamp":1681319246565,
+"command":"Screenshot",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319247608,
+"command":"Screenshot",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319247746,
+"command":"MaximizeCurrentWindow",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681319248744,
+"command":"MaximizeCurrentWindow",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681319248745,
+"command":"Screenshot",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319249813,
+"command":"Screenshot",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319250685,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, findElement {using=xpath, value=//input[@name='q']}]"
+},
+{
+"timestamp":1681319251559,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, findElement {using=xpath, value=//input[@name='q']}]"
+},
+{
+"timestamp":1681319252427,
+"command":"Get",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, get {url=https://google.com}]"
+},
+{
+"timestamp":1681319254178,
+"command":"Get",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, get {url=https://google.com}]"
+},
+{
+"timestamp":1681319254180,
+"command":"Screenshot",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319255265,
+"command":"Screenshot",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319256490,
+"command":"MaximizeCurrentWindow",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681319257342,
+"command":"MaximizeCurrentWindow",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681319257343,
+"command":"Screenshot",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319258374,
+"command":"Screenshot",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319259220,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, findElement {using=xpath, value=//input[@name='q']}]"
+},
+{
+"timestamp":1681319260126,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, findElement {using=xpath, value=//input[@name='q']}]"
+},
+{
+"timestamp":1681319260998,
+"command":"Get",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, get {url=https://google.com}]"
+},
+{
+"timestamp":1681319262389,
+"command":"Get",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, get {url=https://google.com}]"
+},
+{
+"timestamp":1681319262390,
+"command":"Screenshot",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319263471,
+"command":"Screenshot",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319264631,
+"command":"MaximizeCurrentWindow",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681319265480,
+"command":"MaximizeCurrentWindow",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681319265482,
+"command":"Screenshot",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319266540,
+"command":"Screenshot",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319267305,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, findElement {using=xpath, value=//input[@name='q']}]"
+},
+{
+"timestamp":1681319268158,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, findElement {using=xpath, value=//input[@name='q']}]"
+},
+{
+"timestamp":1681319269089,
+"command":"Get",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, get {url=https://google.com}]"
+},
+{
+"timestamp":1681319270397,
+"command":"Get",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, get {url=https://google.com}]"
+},
+{
+"timestamp":1681319270399,
+"command":"Screenshot",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319271456,
+"command":"Screenshot",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319272451,
+"command":"MaximizeCurrentWindow",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681319273304,
+"command":"MaximizeCurrentWindow",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681319273306,
+"command":"Screenshot",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319274380,
+"command":"Screenshot",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319275055,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, findElement {using=xpath, value=//input[@name='q']}]"
+},
+{
+"timestamp":1681319275914,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, findElement {using=xpath, value=//input[@name='q']}]"
+},
+{
+"timestamp":1681319275954,
+"command":"Quit",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, quit {}]"
+},
+{
+"timestamp":1681319276868,
+"command":"Quit",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, quit {}]"
+},
+{
+"timestamp":1681319276869,
+"command":"Screenshot",
+"type":"COMMAND",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},
+{
+"timestamp":1681319277862,
+"command":"Screenshot",
+"type":"RESPONSE",
+"data":"[c35033dd51bd43a02a118b51f5118f52, screenshot {}]"
+},

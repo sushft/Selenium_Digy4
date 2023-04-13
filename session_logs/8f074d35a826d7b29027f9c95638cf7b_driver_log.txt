@@ -1,0 +1,637 @@
+[
+{
+"timestamp":1681384816028,
+"command":"Get",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, get {url=https://www.google.com/}]"
+},
+{
+"timestamp":1681384817963,
+"command":"Get",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, get {url=https://www.google.com/}]"
+},
+{
+"timestamp":1681384817968,
+"command":"MaximizeCurrentWindow",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681384818968,
+"command":"MaximizeCurrentWindow",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681384819011,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384819881,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384819885,
+"command":"IsElementDisplayed",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=81d8384a-144e-44c7-9709-9521a10a7315}]"
+},
+{
+"timestamp":1681384820859,
+"command":"IsElementDisplayed",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=81d8384a-144e-44c7-9709-9521a10a7315}]"
+},
+{
+"timestamp":1681384820862,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384821720,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384821722,
+"command":"SendKeysToElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=81d8384a-144e-44c7-9709-9521a10a7315, value=[Ljava.lang.CharSequence;@5b22d8a1}]"
+},
+{
+"timestamp":1681384822718,
+"command":"SendKeysToElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=81d8384a-144e-44c7-9709-9521a10a7315, value=[Ljava.lang.CharSequence;@5b22d8a1}]"
+},
+{
+"timestamp":1681384822721,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384823603,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384823614,
+"command":"SendKeysToElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=81d8384a-144e-44c7-9709-9521a10a7315, value=[Ljava.lang.CharSequence;@49c675f0}]"
+},
+{
+"timestamp":1681384827360,
+"command":"SendKeysToElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=81d8384a-144e-44c7-9709-9521a10a7315, value=[Ljava.lang.CharSequence;@49c675f0}]"
+},
+{
+"timestamp":1681384827366,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'Facebook')]}]"
+},
+{
+"timestamp":1681384828223,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'Facebook')]}]"
+},
+{
+"timestamp":1681384828226,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'Facebook')]}]"
+},
+{
+"timestamp":1681384829078,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'Facebook')]}]"
+},
+{
+"timestamp":1681384829081,
+"command":"IsElementDisplayed",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=b22c48f5-5b8a-4a6d-8716-d36b26d08a1a}]"
+},
+{
+"timestamp":1681384829973,
+"command":"IsElementDisplayed",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=b22c48f5-5b8a-4a6d-8716-d36b26d08a1a}]"
+},
+{
+"timestamp":1681384829976,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//div[@class='g']//h3}]"
+},
+{
+"timestamp":1681384830992,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//div[@class='g']//h3}]"
+},
+{
+"timestamp":1681384830995,
+"command":"GetElementAttribute",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, getElementAttribute {id=b22c48f5-5b8a-4a6d-8716-d36b26d08a1a, name=innerText}]"
+},
+{
+"timestamp":1681384831934,
+"command":"GetElementAttribute",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, getElementAttribute {id=b22c48f5-5b8a-4a6d-8716-d36b26d08a1a, name=innerText}]"
+},
+{
+"timestamp":1681384831957,
+"command":"Get",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, get {url=https://www.google.com/}]"
+},
+{
+"timestamp":1681384833919,
+"command":"Get",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, get {url=https://www.google.com/}]"
+},
+{
+"timestamp":1681384833922,
+"command":"MaximizeCurrentWindow",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681384834774,
+"command":"MaximizeCurrentWindow",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681384834781,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384835649,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384835653,
+"command":"IsElementDisplayed",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=3c8e4566-eeea-47bc-9017-e8ba3332fc25}]"
+},
+{
+"timestamp":1681384836580,
+"command":"IsElementDisplayed",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=3c8e4566-eeea-47bc-9017-e8ba3332fc25}]"
+},
+{
+"timestamp":1681384836584,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384837441,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384837445,
+"command":"SendKeysToElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=3c8e4566-eeea-47bc-9017-e8ba3332fc25, value=[Ljava.lang.CharSequence;@51c959a4}]"
+},
+{
+"timestamp":1681384838471,
+"command":"SendKeysToElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=3c8e4566-eeea-47bc-9017-e8ba3332fc25, value=[Ljava.lang.CharSequence;@51c959a4}]"
+},
+{
+"timestamp":1681384838474,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384839327,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384839331,
+"command":"SendKeysToElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=3c8e4566-eeea-47bc-9017-e8ba3332fc25, value=[Ljava.lang.CharSequence;@21bd20ee}]"
+},
+{
+"timestamp":1681384840903,
+"command":"SendKeysToElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=3c8e4566-eeea-47bc-9017-e8ba3332fc25, value=[Ljava.lang.CharSequence;@21bd20ee}]"
+},
+{
+"timestamp":1681384840907,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'LinkedIn')]}]"
+},
+{
+"timestamp":1681384841784,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'LinkedIn')]}]"
+},
+{
+"timestamp":1681384841787,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'LinkedIn')]}]"
+},
+{
+"timestamp":1681384842694,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'LinkedIn')]}]"
+},
+{
+"timestamp":1681384842698,
+"command":"IsElementDisplayed",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=147eecca-96fd-4599-ba66-4e6272e69d8e}]"
+},
+{
+"timestamp":1681384843610,
+"command":"IsElementDisplayed",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=147eecca-96fd-4599-ba66-4e6272e69d8e}]"
+},
+{
+"timestamp":1681384843614,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//div[@class='g']//h3}]"
+},
+{
+"timestamp":1681384844531,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//div[@class='g']//h3}]"
+},
+{
+"timestamp":1681384844534,
+"command":"GetElementAttribute",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, getElementAttribute {id=147eecca-96fd-4599-ba66-4e6272e69d8e, name=innerText}]"
+},
+{
+"timestamp":1681384845397,
+"command":"GetElementAttribute",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, getElementAttribute {id=147eecca-96fd-4599-ba66-4e6272e69d8e, name=innerText}]"
+},
+{
+"timestamp":1681384845404,
+"command":"Get",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, get {url=https://www.google.com/}]"
+},
+{
+"timestamp":1681384846917,
+"command":"Get",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, get {url=https://www.google.com/}]"
+},
+{
+"timestamp":1681384846920,
+"command":"MaximizeCurrentWindow",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681384847764,
+"command":"MaximizeCurrentWindow",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681384847769,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384848629,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384848632,
+"command":"IsElementDisplayed",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=0ea88a1e-a2dc-47b7-b963-0d1cc4f8b0f2}]"
+},
+{
+"timestamp":1681384849526,
+"command":"IsElementDisplayed",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=0ea88a1e-a2dc-47b7-b963-0d1cc4f8b0f2}]"
+},
+{
+"timestamp":1681384849529,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384850447,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384850451,
+"command":"SendKeysToElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=0ea88a1e-a2dc-47b7-b963-0d1cc4f8b0f2, value=[Ljava.lang.CharSequence;@42b84286}]"
+},
+{
+"timestamp":1681384851492,
+"command":"SendKeysToElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=0ea88a1e-a2dc-47b7-b963-0d1cc4f8b0f2, value=[Ljava.lang.CharSequence;@42b84286}]"
+},
+{
+"timestamp":1681384851496,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384852370,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384852375,
+"command":"SendKeysToElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=0ea88a1e-a2dc-47b7-b963-0d1cc4f8b0f2, value=[Ljava.lang.CharSequence;@102c577f}]"
+},
+{
+"timestamp":1681384854250,
+"command":"SendKeysToElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=0ea88a1e-a2dc-47b7-b963-0d1cc4f8b0f2, value=[Ljava.lang.CharSequence;@102c577f}]"
+},
+{
+"timestamp":1681384854255,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'Twitter')]}]"
+},
+{
+"timestamp":1681384855166,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'Twitter')]}]"
+},
+{
+"timestamp":1681384855170,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'Twitter')]}]"
+},
+{
+"timestamp":1681384856039,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'Twitter')]}]"
+},
+{
+"timestamp":1681384856042,
+"command":"IsElementDisplayed",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=0d33959a-770b-49db-a82f-7c79ac6b35ab}]"
+},
+{
+"timestamp":1681384856946,
+"command":"IsElementDisplayed",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=0d33959a-770b-49db-a82f-7c79ac6b35ab}]"
+},
+{
+"timestamp":1681384856950,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//div[@class='g']//h3}]"
+},
+{
+"timestamp":1681384857807,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//div[@class='g']//h3}]"
+},
+{
+"timestamp":1681384857812,
+"command":"GetElementAttribute",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, getElementAttribute {id=0d33959a-770b-49db-a82f-7c79ac6b35ab, name=innerText}]"
+},
+{
+"timestamp":1681384858674,
+"command":"GetElementAttribute",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, getElementAttribute {id=0d33959a-770b-49db-a82f-7c79ac6b35ab, name=innerText}]"
+},
+{
+"timestamp":1681384858682,
+"command":"Get",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, get {url=https://www.google.com/}]"
+},
+{
+"timestamp":1681384860139,
+"command":"Get",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, get {url=https://www.google.com/}]"
+},
+{
+"timestamp":1681384860143,
+"command":"MaximizeCurrentWindow",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681384860998,
+"command":"MaximizeCurrentWindow",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681384861006,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384861859,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384861865,
+"command":"IsElementDisplayed",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=82d386ad-e204-4e5c-87c8-d3796ec2dff2}]"
+},
+{
+"timestamp":1681384862837,
+"command":"IsElementDisplayed",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=82d386ad-e204-4e5c-87c8-d3796ec2dff2}]"
+},
+{
+"timestamp":1681384862841,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384863698,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384863701,
+"command":"SendKeysToElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=82d386ad-e204-4e5c-87c8-d3796ec2dff2, value=[Ljava.lang.CharSequence;@1ab5f08a}]"
+},
+{
+"timestamp":1681384864917,
+"command":"SendKeysToElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=82d386ad-e204-4e5c-87c8-d3796ec2dff2, value=[Ljava.lang.CharSequence;@1ab5f08a}]"
+},
+{
+"timestamp":1681384864922,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384865777,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//textarea[@name='q']}]"
+},
+{
+"timestamp":1681384865782,
+"command":"SendKeysToElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=82d386ad-e204-4e5c-87c8-d3796ec2dff2, value=[Ljava.lang.CharSequence;@57272109}]"
+},
+{
+"timestamp":1681384868940,
+"command":"SendKeysToElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, sendKeysToElement {id=82d386ad-e204-4e5c-87c8-d3796ec2dff2, value=[Ljava.lang.CharSequence;@57272109}]"
+},
+{
+"timestamp":1681384868944,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'automationScript')]}]"
+},
+{
+"timestamp":1681384869800,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'automationScript')]}]"
+},
+{
+"timestamp":1681384869805,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'automationScript')]}]"
+},
+{
+"timestamp":1681384870679,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//h3[contains(.,'automationScript')]}]"
+},
+{
+"timestamp":1681384870684,
+"command":"IsElementDisplayed",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=dbb89e43-d98e-4770-9e72-7215d2e449e9}]"
+},
+{
+"timestamp":1681384871577,
+"command":"IsElementDisplayed",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, isElementDisplayed {id=dbb89e43-d98e-4770-9e72-7215d2e449e9}]"
+},
+{
+"timestamp":1681384871582,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//div[@class='g']//h3}]"
+},
+{
+"timestamp":1681384872440,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, findElement {using=xpath, value=//div[@class='g']//h3}]"
+},
+{
+"timestamp":1681384872445,
+"command":"GetElementAttribute",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, getElementAttribute {id=f417dc6b-e1d8-40a1-ac4f-ada6c261bc2f, name=innerText}]"
+},
+{
+"timestamp":1681384873304,
+"command":"GetElementAttribute",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, getElementAttribute {id=f417dc6b-e1d8-40a1-ac4f-ada6c261bc2f, name=innerText}]"
+},
+{
+"timestamp":1681384873389,
+"command":"Quit",
+"type":"COMMAND",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, quit {}]"
+},
+{
+"timestamp":1681384874332,
+"command":"Quit",
+"type":"RESPONSE",
+"data":"[8f074d35a826d7b29027f9c95638cf7b, quit {}]"
+},

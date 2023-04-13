@@ -1,0 +1,37 @@
+[
+{
+"timestamp":1681319052052,
+"command":"Get",
+"type":"COMMAND",
+"data":"[f9993dea2be935d2eeef2eee74026808, get {url=https://google.com}]"
+},
+{
+"timestamp":1681319054526,
+"command":"Get",
+"type":"RESPONSE",
+"data":"[f9993dea2be935d2eeef2eee74026808, get {url=https://google.com}]"
+},
+{
+"timestamp":1681319054528,
+"command":"MaximizeCurrentWindow",
+"type":"COMMAND",
+"data":"[f9993dea2be935d2eeef2eee74026808, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681319055998,
+"command":"MaximizeCurrentWindow",
+"type":"RESPONSE",
+"data":"[f9993dea2be935d2eeef2eee74026808, maximizeCurrentWindow {}]"
+},
+{
+"timestamp":1681319056008,
+"command":"FindElement",
+"type":"COMMAND",
+"data":"[f9993dea2be935d2eeef2eee74026808, findElement {using=xpath, value=//input[@name='q']}]"
+},
+{
+"timestamp":1681319057304,
+"command":"FindElement",
+"type":"RESPONSE",
+"data":"[f9993dea2be935d2eeef2eee74026808, findElement {using=xpath, value=//input[@name='q']}]"
+},
