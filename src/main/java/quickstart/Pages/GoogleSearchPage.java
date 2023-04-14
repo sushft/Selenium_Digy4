@@ -3,6 +3,7 @@ package quickstart.Pages;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.time.Duration;
 import java.util.Properties;
 
 import org.openqa.selenium.By;
@@ -31,7 +32,7 @@ public class GoogleSearchPage  {
 	
 	
 	public void enterKeyWord(String keyword) {
-		WebDriverWait wait = new WebDriverWait(driver, 5);
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//textarea[@name='q']")));
 		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
 		driver.findElement(By.xpath("//textarea[@name='q']")).sendKeys(keyword);
@@ -40,7 +41,7 @@ public class GoogleSearchPage  {
 
 	public void waitForResultLink(String keyword) {
 		String searchResultLink="//h3[contains(.,'"+keyword+"')]";
-		WebDriverWait wait= new WebDriverWait(driver, TimeOuts.DEFAULT_TIMEOUT);
+		WebDriverWait wait= new WebDriverWait(driver, Duration.ofSeconds(TimeOuts.DEFAULT_TIMEOUT));
 		wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(searchResultLink)));		
 	}
 
