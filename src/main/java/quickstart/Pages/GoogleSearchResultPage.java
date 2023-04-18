@@ -6,9 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.digy4.java.testng.Digy4TestNGSupport;
-
 import Constants.TimeOuts;
+
+import java.time.Duration;
 
 public class GoogleSearchResultPage {
 
@@ -25,7 +25,7 @@ public class GoogleSearchResultPage {
 	public  boolean isLinkDisplayed(String elementName) {
 
 		String searchResultLink="//h3[contains(.,'"+elementName+"')]";
-		WebDriverWait wait= new WebDriverWait(driver, TimeOuts.DEFAULT_TIMEOUT);
+		WebDriverWait wait= new WebDriverWait(driver, Duration.ofSeconds(TimeOuts.DEFAULT_TIMEOUT));
 		WebElement ele= wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(searchResultLink)));
 		return ele.isDisplayed();
 	}
